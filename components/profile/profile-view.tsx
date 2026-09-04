@@ -302,6 +302,7 @@ export function ProfileView() {
                       "America/Toronto",
                       "Asia/Singapore",
                       "Asia/Tokyo",
+                      "Asia/Karachi",
                       "Asia/Kolkata",
                     ].map((zone) => (
                       <option key={zone} value={zone}>

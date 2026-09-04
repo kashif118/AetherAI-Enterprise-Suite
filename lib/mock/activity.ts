@@ -13,7 +13,7 @@ export const activityEvents: ActivityEvent[] = [
   {
     id: "act_02",
     kind: "prompt.published",
-    actor: { id: "usr_01", name: "Amara Osei", initials: "AO" },
+    actor: { id: "usr_01", name: "Muhammad Kashif", initials: "MK" },
     action: "published a prompt",
     target: "Meeting notes to decisions",
     createdAt: "2026-09-04T12:30:00.000Z",

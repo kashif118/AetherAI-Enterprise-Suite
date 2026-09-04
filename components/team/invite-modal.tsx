@@ -94,7 +94,7 @@ export function InviteModal({
               value={emails}
               invalid={isInvalid}
               aria-describedby={describedBy}
-              placeholder={"amara.osei@northwind.example\nwei.chen@northwind.example"}
+              placeholder={"daniel.kovac@northwind.example\nwei.chen@northwind.example"}
               onChange={(event) => setEmails(event.target.value)}
             />
           )}

@@ -32,7 +32,7 @@ export function LoginForm() {
   const router = useRouter();
   const { toast } = useToast();
 
-  const [email, setEmail] = useState("amara.osei@northwind.example");
+  const [email, setEmail] = useState("kashifamish2001@gmail.com");
   const [password, setPassword] = useState("");
   const [remember, setRemember] = useState(true);
   const [showPassword, setShowPassword] = useState(false);

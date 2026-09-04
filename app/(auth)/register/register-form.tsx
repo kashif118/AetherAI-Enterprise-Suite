@@ -111,7 +111,7 @@ export function RegisterForm() {
               <Input
                 id={id}
                 autoComplete="name"
-                placeholder="Amara Osei"
+                placeholder="Muhammad Kashif"
                 value={name}
                 invalid={invalid}
                 aria-describedby={describedBy}

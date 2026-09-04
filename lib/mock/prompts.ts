@@ -297,7 +297,7 @@ Transcript:
     visibility: "organization",
     tags: ["meetings", "summarisation"],
     variables: [{ key: "transcript", label: "Transcript", placeholder: "Paste the transcript" }],
-    author: { id: "usr_01", name: "Amara Osei", initials: "AO" },
+    author: { id: "usr_01", name: "Muhammad Kashif", initials: "MK" },
     favorite: false,
     usageCount: 1_042,
     createdAt: "2026-02-27T16:40:00.000Z",

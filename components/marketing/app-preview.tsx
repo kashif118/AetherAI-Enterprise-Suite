@@ -56,7 +56,7 @@ export function AppPreview() {
           <div className="min-w-0 flex-1 p-4 sm:p-5">
             <div className="mb-4 flex items-center justify-between">
               <div>
-                <p className="text-[13px] font-semibold text-fg">Good afternoon, Amara</p>
+                <p className="text-[13px] font-semibold text-fg">Good afternoon, Kashif</p>
                 <p className="text-[11px] text-fg-muted">Northwind Industries · Last 30 days</p>
               </div>
               <span className="rounded-md bg-primary px-2.5 py-1 text-[11px] font-medium text-primary-fg">
