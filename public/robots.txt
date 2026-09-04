@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /$
+Allow: /login
+Allow: /register
+Disallow: /dashboard
+Disallow: /workspace
+Disallow: /chat
+Disallow: /prompts
+Disallow: /projects
+Disallow: /team
+Disallow: /analytics
+Disallow: /settings
+Disallow: /profile
